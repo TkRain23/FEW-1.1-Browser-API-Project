@@ -1,3 +1,12 @@
+
+body
+{
+    border: 2px solid;
+    padding: 10px;
+    margin: 10% auto;
+    width: 500px;
+}
+
 #square,
 #circle {
     width: 100px;
